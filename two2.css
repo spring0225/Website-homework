@@ -1,0 +1,142 @@
+body {
+	background: #FFFFFF;
+}
+#content{
+	margin: 0px auto;
+}
+#pic1{
+	position: absolute;
+	background: url("19.jpg");
+	top: 150px;
+	left: 70px;
+	width: 200px;
+	height: 200px;
+}
+#pic2{
+	position: absolute;
+	background: url("18.jpg");
+	top: 150px;
+	left: 320px;
+	width: 200px;
+	height: 200px;
+}
+#pic3{
+	position: absolute;
+	background: url("17.jpg");
+	top: 150px;
+	left: 570px;
+	width: 200px;
+	height: 200px;
+}
+#pic4{
+	position: absolute;
+	background: url("16.jpg");
+	top: 150px;
+	left: 820px;
+	width: 200px;
+	height: 200px;
+}
+#pic5{
+	position: absolute;
+	background: url("15.jpg");
+	top: 150px;
+	left: 1070px;
+	width: 200px;
+	height: 200px;
+}
+#pic6{
+	position: absolute;
+	background: url("14.jpg");
+	top: 400px;
+	left: 70px;
+	width: 200px;
+	height: 200px;
+}
+#pic7{
+	position: absolute;
+	background: url("13.jpg");
+	top: 400px;
+	left: 320px;
+	width: 200px;
+	height: 200px;
+}
+#pic8{
+	position: absolute;
+	background: url("12.jpg");
+	top: 400px;
+	left: 570px;
+	width: 200px;
+	height: 200px;
+}
+#pic9{
+	position: absolute;
+	background: url("11.jpg");
+	top: 400px;
+	left: 820px;
+	width: 200px;
+	height: 200px;
+}
+#pic10{
+	position: absolute;
+	background: url("10.jpg");
+	top: 400px;
+	left: 1070px;
+	width: 200px;
+	height: 200px;
+}
+#menu1{
+	position: absolute;
+	top: 40px;
+	left: 650px;
+	font-size: 25px;
+}
+#menu1 a:hover{
+	color: #000000;
+}
+
+#menu2{
+	position: absolute;
+	top: 40px;
+	left: 740px;
+	font-size: 25px;
+}
+#menu2 a:hover{
+	color: #000000;
+}
+
+#menu3{
+	position: absolute;
+	top: 40px;
+	left: 850px;
+	font-size: 25px;
+}
+#menu3 a:hover{
+	color: #000000;
+}
+
+#menu4{
+	position: absolute;
+	top: 40px;
+	left: 970px;
+	font-size: 25px;
+}
+#menu4 a:hover{
+	color: #000000;
+}
+
+#menu5{
+	position: absolute;
+	top: 40px;
+	left: 1080px;
+	font-size: 25px;
+}
+#menu5 a:hover{
+	color: #000000;
+}
+
+#title{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	font-size: 50px;
+}

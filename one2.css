@@ -1,0 +1,140 @@
+body {
+	margin:0px;
+	padding:0px;
+	background: url("44.jpg") no-repeat center fixed;
+	background-size:cover;
+}
+
+#content{
+	margin: 0px auto;
+}
+#pic1{
+	position: absolute;
+	background: url("7.jpg");
+	top: 150px;
+	left: 20px;
+	width: 400px;
+	height: 300px;
+}
+#pic2{
+	position: absolute;
+	background: url("3.jpg");
+	top: 150px;
+	left: 440px;
+	width: 400px;
+	height: 300px;
+}
+#pic3{
+	position: absolute;
+	background: url("2.jpg");
+	top: 150px;
+	left: 860px;
+	width: 400px;
+	height: 300px;
+}
+#menu1{
+	position: absolute;
+	top: 40px;
+	left: 650px;
+	font-size: 25px;
+}
+#menu1 a:hover{
+	color: #000000;
+}
+
+#menu2{
+	position: absolute;
+	top: 40px;
+	left: 740px;
+	font-size: 25px;
+}
+#menu2 a:hover{
+	color: #000000;
+}
+
+#menu3{
+	position: absolute;
+	top: 40px;
+	left: 850px;
+	font-size: 25px;
+}
+#menu3 a:hover{
+	color: #000000;
+}
+
+#menu4{
+	position: absolute;
+	top: 40px;
+	left: 970px;
+	font-size: 25px;
+}
+#menu4 a:hover{
+	color: #000000;
+}
+
+#menu5{
+	position: absolute;
+	top: 40px;
+	left: 1080px;
+	font-size: 25px;
+}
+#menu5 a:hover{
+	color: #000000;
+}
+
+#title{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	font-size: 50px;
+}
+
+#text1{
+	position: absolute;
+	top: 455px;
+	left: 175px;
+	font-size: 40px;
+}
+#text2{
+	position: absolute;
+	top: 455px;
+	left: 585px;
+	font-size: 40px;
+}
+#text3{
+	position: absolute;
+	top: 455px;
+	left: 990px;
+	font-size: 40px;
+}
+#form1{
+	position:absolute;
+	background:none;
+	left:20px;
+	top:150px;
+	border:5px solid #000000;
+	width:390px;
+	height:350px;
+}
+#form2{
+	position:absolute;
+	background:none;
+	left:440px;
+	top:150px;
+	border:5px solid #000000;
+	width:390px;
+	height:350px;
+}
+#form3{
+	position:absolute;
+	background:none;
+	left:855px;
+	top:150px;
+	border:5px solid #000000;
+	width:400px;
+	height:350px;
+}
+	
+	
+	
+	

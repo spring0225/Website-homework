@@ -1,0 +1,250 @@
+body {
+	margin:0px;
+	padding:0px;
+	background: url("45.jpg") no-repeat center fixed;
+	background-size:cover;
+}
+
+#content{
+	margin: 0px auto;
+}
+#pic1{
+	position: absolute;
+	background: url("20.jpg");
+	top: 130px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+}
+#pic2{
+	position: absolute;
+	background: url("22.jpg");
+	top: 130px;
+	left: 380px;
+	width: 200px;
+	height: 200px;
+}
+#pic3{
+	position: absolute;
+	background: url("24.jpg");
+	top: 130px;
+	left: 660px;
+	width: 200px;
+	height: 200px;
+}
+#pic4{
+	position: absolute;
+	background: url("26.jpg");
+	top: 130px;
+	left: 940px;
+	width: 200px;
+	height: 200px;
+}
+#pic5{
+	position: absolute;
+	background: url("29.jpg");
+	top: 400px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+}
+#pic6{
+	position: absolute;
+	background: url("31.jpg");
+	top: 400px;
+	left: 380px;
+	width: 200px;
+	height: 200px;
+}
+#pic7{
+	position: absolute;
+	background: url("32.jpg");
+	top: 400px;
+	left: 660px;
+	width: 200px;
+	height: 200px;
+}
+#pic8{
+	position: absolute;
+	background: url("34.jpg");
+	top: 400px;
+	left: 940px;
+	width: 200px;
+	height: 200px;
+}
+#pic1:hover {
+	position: absolute;
+	background: url("21.jpg");
+	top: 130px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+}
+#pic2:hover {
+	position: absolute;
+	background: url("23.jpg");
+	top: 130px;
+	left: 380px;
+	width: 200px;
+	height: 200px;
+}
+#pic3:hover {
+	position: absolute;
+	background: url("25.jpg");
+	top: 130px;
+	left: 660px;
+	width: 200px;
+	height: 200px;
+}
+#pic4:hover {
+	position: absolute;
+	background: url("27.jpg");
+	top: 130px;
+	left: 940px;
+	width: 200px;
+	height: 200px;
+}
+#pic5:hover {
+	position: absolute;
+	background: url("28.jpg");
+	top: 400px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+}
+#pic6:hover {
+	position: absolute;
+	background: url("30.jpg");
+	top: 400px;
+	left: 380px;
+	width: 200px;
+	height: 200px;
+}
+#pic7:hover {
+	position: absolute;
+	background: url("33.jpg");
+	top: 400px;
+	left: 660px;
+	width: 200px;
+	height: 200px;
+}
+#pic8:hover {
+	position: absolute;
+	background: url("35.jpg");
+	top: 400px;
+	left: 940px;
+	width: 200px;
+	height: 200px;
+}
+#text{
+	position: absolute;
+	top: 200px;
+	left: 500px;
+	font-size: 20px;
+}
+
+#menu1{
+	position: absolute;
+	top: 40px;
+	left: 650px;
+	font-size: 25px;
+}
+#menu1 a:hover{
+	color: #000000;
+}
+
+#menu2{
+	position: absolute;
+	top: 40px;
+	left: 740px;
+	font-size: 25px;
+}
+#menu2 a:hover{
+	color: #000000;
+}
+
+#menu3{
+	position: absolute;
+	top: 40px;
+	left: 850px;
+	font-size: 25px;
+}
+#menu3 a:hover{
+	color: #000000;
+}
+
+#menu4{
+	position: absolute;
+	top: 40px;
+	left: 970px;
+	font-size: 25px;
+}
+#menu4 a:hover{
+	color: #000000;
+}
+
+#menu5{
+	position: absolute;
+	top: 40px;
+	left: 1080px;
+	font-size: 25px;
+}
+#menu5 a:hover{
+	color: #000000;
+}
+
+#title{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	font-size: 50px;
+}
+#text1{
+	position: absolute;
+	top: 350px;
+	left: 170px;
+	font-size: 20px;
+}
+#text2{
+	position: absolute;
+	top: 350px;
+	left: 450px;
+	font-size: 20px;
+}
+#text3{
+	position: absolute;
+	top: 350px;
+	left: 730px;
+	font-size: 20px;
+}
+#text4{
+	position: absolute;
+	top: 350px;
+	left: 1010px;
+	font-size: 20px;
+}
+#text5{
+	position: absolute;
+	top: 620px;
+	left: 170px;
+	font-size: 20px;
+}
+#text6{
+	position: absolute;
+	top: 620px;
+	left: 450px;
+	font-size: 20px;
+}
+#text7{
+	position: absolute;
+	top: 620px;
+	left: 730px;
+	font-size: 20px;
+}
+#text8{
+	position: absolute;
+	top: 620px;
+	left: 1010px;
+	font-size: 20px;
+}
+	
